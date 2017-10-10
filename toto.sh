@@ -1,3 +1,4 @@
+echo "Conflit slave"
 echo "Hello from Slave"
 
 echo "test !!"
