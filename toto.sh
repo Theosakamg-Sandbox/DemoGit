@@ -1,3 +1,5 @@
+echo "Hello from Slave"
+
 echo "test !!"
 echo "Update !!"
 
