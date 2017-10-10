@@ -1,1 +1,7 @@
+# Untrack tempory files !
 file.tmp
+
+*.jpg
+/build/
+
+#!toto.jpg
